@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "projectName": "Project A",
+      "description": "dsslaskd;jadlkSDLKJas",
+      "startDate": "2025-01-31",
+      "endDate": "2025-12-11",
+      "projectManager": "Tayyab Nisar",
+      "id": "project_a"
+    },
+    {
+      "id": "project_b",
+      "projectName": "Project B",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "projectManager": "John Doe"
+    },
+    {
+      "id": "project_c",
+      "projectName": "Project C",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "projectManager": "John Doe"
+    },
+    {
+      "projectName": "Project E",
+      "description": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "projectManager": "John Doe 001",
+      "id": "project_e"
+    },
+    {
+      "id": "project_f",
+      "projectName": "Project F",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "projectManager": "John Doe"
+    },
+    {
+      "id": "project_g",
+      "projectName": "Project G",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "projectManager": "John Doe"
+    }
+  ]
+}
